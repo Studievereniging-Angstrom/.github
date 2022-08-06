@@ -1,9 +1,9 @@
 <h3 align="center">👋 Hi there! We are Study Association Ångström</h3>
 <p align="center">
   <a href="https://www.angstrom.nl/36675-home">Website</a> •
-  <a href="https://www.facebook.com/svangstrom/">Facebook</a>
-  <a https://www.linkedin.com/company/-ngstr-m/about/">Linkedin</a>
-  <a https://www.instagram.com/andersjonasangstrom/">Instagram</a>
+  <a href="https://www.facebook.com/svangstrom/">Facebook</a> •
+  <a href="https://www.linkedin.com/company/-ngstr-m/about/">Linkedin</a> •
+  <a href="https://www.instagram.com/andersjonasangstrom/">Instagram</a>
 </p>
 
 ---
